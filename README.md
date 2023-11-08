@@ -2,8 +2,9 @@
 I’m shawn
 
 - 🌱 I’m currently Master of Computing student with undergraduate qualification in Engineering.
-- 👀 I’m interested in software development. Able to build complex software using Python and Java. Can craft web applications, desktop programs, and integrate databases.
-- 💞️ I’m good at working in teams and learning new techniques. Looking to pursue a career in software engineering.
+- 👀 I’m interested in software development. Able to build software using Python and Java, and manipulate MySQL database.
+- ✨ Can craft web applications, desktop programs, and android applications.
+- 💞️ Good at working in teams and learning new techniques.
 - 📫 Feel free to reach me on LinkedIn https://www.linkedin.com/in/xiangji-shawn-kong/
 
 <!---
