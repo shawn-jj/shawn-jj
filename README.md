@@ -1,9 +1,8 @@
 # 👋 Hi!
 I’m shawn
 
-- 🌱 I’m currently Master of Computing student with undergraduate qualification in Engineering.
+- 🌱 I’m currently a Master student major in Computer Science.
 - 👀 I’m interested in software development. Able to programming in Python and Java.
-- ✨ Can build web application using SpringBoot, React and MySQL.
 - 💞️ Good at working in teams and learning new techniques.
 - 📫 Feel free to reach me on LinkedIn https://www.linkedin.com/in/xiangji-shawn-kong/
 
