@@ -1,8 +1,8 @@
 # 👋 Hi!
-I’m shawn
+### I'm Shawn
 
-- 🌱 I’m currently a Master student of Computer Science.
-- 👀 I’m interested in software development. Able to programming in Python and Java.
+- 🌱 I'm a Master's graduate major in Computing.
+- 👀 I'm interested in software development. Able to program in Python and Java.
 - 💞️ Good at working in teams and learning new techniques.
 - 📫 Feel free to reach me on LinkedIn https://www.linkedin.com/in/xiangji-shawn-kong/
 
